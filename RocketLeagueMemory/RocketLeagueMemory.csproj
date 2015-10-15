@@ -62,7 +62,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CUE.NET">
-      <HintPath>..\..\..\..\..\Desktop\Cleaning Service\CUE.NET_0.1.0_x86\CUE.NET.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Cleaning Service\CUE.NET_0.1.0_x86\CUE.NET.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

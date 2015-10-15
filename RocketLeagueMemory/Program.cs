@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Diagnostics;
-using CUE.NET;
-using CUE.NET.Devices.Keyboard;
-using CUE.NET.Exceptions;
 using System.Drawing;
+using CUE.NET.Devices.Keyboard;
+using CUE.NET;
+using CUE.NET.Exceptions;
 
 namespace RocketLeagueMemory
 {
